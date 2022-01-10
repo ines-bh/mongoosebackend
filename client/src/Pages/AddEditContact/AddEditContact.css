@@ -1,0 +1,12 @@
+.myForm{
+    margin: 1% 30%;
+    background-color: aqua;
+    padding: 4%;
+    border-radius: 15px;
+}
+.addBtn,
+.editBtn{
+    margin-top: 5%;
+    width: 70px;
+    cursor: pointer;
+}
